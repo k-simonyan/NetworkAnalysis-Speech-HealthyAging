@@ -1,4 +1,4 @@
 # NetworkAnalysis_Speech_HealthyAging
 
-This repository contains analysis scripts for our study on healthy aging effects on the whole-brain speech production network.
+This repository has been moved to https://github.com/simonyanlab/NetworkAnalysis_Speech_HealthyAging.
 
